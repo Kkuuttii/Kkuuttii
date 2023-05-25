@@ -14,11 +14,11 @@
 
 ### About me
 
-- 📚 I improve my skills in front-end **front-end development**
+- 📚 I improve my skills in **front-end development**
 - 🌍 I speak intermediate English
 - 💻 I love to create beautiful and functional interfaces
 - 👯 I’m looking to collaborate on creating imaginative interfaces, startups, and ready to help with creation a personal business card website
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/ekaterina-gorelik-1752b41b4), [email](mailto: ekategorelik@gmail.com)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/ekaterina-gorelik-1752b41b4), [email] (mailto: ekategorelik@gmail.com)
 
 
 ### Languages and tools
