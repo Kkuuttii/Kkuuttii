@@ -37,4 +37,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kkuuttii&theme=nord_bright" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kkuuttii&theme=nord_bright" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kkuuttii&theme=nord_bright" alt=""/>
+    [![codewars](https://www.codewars.com/users/Kkuuttii/badges/large)](https://www.codewars.com/users/Kkuuttii)
 </div>
